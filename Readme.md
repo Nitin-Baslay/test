@@ -15,5 +15,3 @@ Target 2:
 * Design listing page
 * Add pagination to the page
 * Toggle list view and grid view UI on click of the button
-* Integrate below GET API and header token
-  http://65.0.134.149:2000/
